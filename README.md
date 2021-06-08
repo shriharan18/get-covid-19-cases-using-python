@@ -15,7 +15,7 @@ Step 5: Run the program
 
 Now you have successfully created the program
 
-For more information on this project, watch this video on YouTube: 
+For more information on this project, watch this video on YouTube: https://youtu.be/3eH86npusgo
 
 All the best!
 Happy coding!
